@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847576197224",
+    "project_id": "astercharge-20d51",
+    "storage_bucket": "astercharge-20d51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847576197224:android:8ed939bb7d3ee26e0833dd",
+        "android_client_info": {
+          "package_name": "com.example.astercharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ29CK4hOM2qtnbUgY3scG_awEFogo4xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
